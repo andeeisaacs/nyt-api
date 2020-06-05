@@ -45,7 +45,7 @@ class App extends Component {
         <hr className="my-2" />
         <p>Want to see the code? Click the learn more button to see the Github Repo</p>
         <p className="lead">
-          <Button color="primary" href="https://wwww.github.com">Learn More</Button>
+          <Button color="primary" href="https://github.com/alyxender/nyt-api">Learn More</Button>
         </p>
       </Jumbotron>
       <br />
